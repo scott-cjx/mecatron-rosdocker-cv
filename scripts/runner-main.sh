@@ -1,0 +1,1 @@
+docker run -it --rm -p10000:10000 -p5005:5005 -p11311:11311 my-ros-docker
